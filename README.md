@@ -1,0 +1,1 @@
+# thingboard-qt-mqtt
